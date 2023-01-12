@@ -2,8 +2,8 @@
 
 ### 🧪 Hello! I'm Jake
 -----
-(he/xe/it pronouns)
+(he/they pronouns)
 
-I'm a 19 year old programming student from the netherlands. I also work on my own projects in my spare time.
+I'm a 20 year old programming student from the Netherlands. I also work on my own projects in my spare time.
 
-This profile is still a WIP and I will add more stuff to it in the future.
+Slowly moving my personal nonsense over to [Codeberg](https://codeberg.org/fulmine)
